@@ -1,6 +1,6 @@
 # Reference
 
-My website was inspired by the Devfolio project by Mark Macneil, which was published on GitHub in 2029.
+My website was inspired by the Devfolio project by Mark Macneil, which was published on GitHub in 2019.
 
 # devfolio
 A simple, responsive, single-page portfolio and resume for developers built with Bulma, Sass, Font Awesome and Flickity.
